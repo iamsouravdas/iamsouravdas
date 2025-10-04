@@ -1,28 +1,26 @@
 # 👋 Hey, I'm Sourav Das
 
-💡 I craft **user-focused solutions** by merging **business needs** with **modern web apps**.  
-🎯 Building **scalable, clean, and performant applications** is my jam.
+💡 Turning **ideas into scalable web apps** with modern stacks and clean architecture.  
+🎯 Focused on **React, Node.js, TypeScript, GraphQL & Docker-powered apps**.
 
 ---
 
-## 🚀 About Me
+## 🚀 Tech Stack
 
-* 🌍 Based in India  
-* ⚡ Exploring **.NET, Node.js, React, Docker, Kafka & Cloud Deployments**  
-* 📦 Passionate about **system design, real-time apps & ecommerce platforms**  
-* 💻 Pinned Projects:
-
-  * [UrbanCart](https://github.com/iamsouravdas/UrbanCart) – A TypeScript Ecommerce adventure  
-  * [Velisse-Corture](https://github.com/iamsouravdas/Velisse-Corture) – Sleek TypeScript project  
+🎨 **Frontend:** React, Tailwind CSS  
+⚡ **Backend:** Node.js, Express.js, TypeScript, GraphQL  
+💾 **Database:** PostgreSQL (pgAdmin)  
+🐳 **DevOps & Containerization:** Docker, CI/CD  
+🌐 **Cloud & Messaging:** AWS, Azure, Kafka, RabbitMQ  
 
 ---
 
-## 🛠️ Tech Stack
+## 🌟 Projects in Action
 
-| Frontend | Backend | Database | DevOps & Cloud | Messaging | Tools |
-|----------|--------|---------|----------------|----------|-------|
-| React, Angular, Tailwind CSS | Node.js, Express, .NET Web API, GraphQL | PostgreSQL, SQL Server, MongoDB | Docker, Kubernetes, Azure, AWS | Kafka, RabbitMQ | Git, CI/CD, Redis, Firebase |
-| ⚡ Dynamic UI | 🔥 Fast APIs | 💾 Reliable Storage | ☁️ Cloud Native | 🔔 Real-time | ⚙️ Dev Tools |
+* 🏬 **Goodsie** – Ecommerce platform with GraphQL + Kafka + AI features  
+* 🚛 **Truck Management System** – Real-time scheduling + ML optimization  
+* 💬 **Realtime Chat App** – React + TypeScript + Firebase/Socket.io  
+* 📦 **Dock Allocator API** – .NET Clean Architecture for AI-driven dock allocation  
 
 ---
 
@@ -31,17 +29,6 @@
 ![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamsouravdas&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsouravdas&layout=compact&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=iamsouravdas&theme=radical)
-
----
-
-## 🌟 Featured Projects
-
-* 🏬 **Goodsie** – Ecommerce platform with **GraphQL, Kafka, AI-powered features**  
-* 🚛 **Truck Management System** – Real-time scheduling + ML optimization + dock allocator API  
-* 💬 **Realtime Chat App** – Built with **React, TypeScript, Firebase/Socket.io, Tailwind**  
-* 📦 **Dock Allocator API** – **.NET Clean Architecture** for AI-driven dock allocation  
-
-✨ *More projects coming soon… keep an eye on this space!*  
 
 ---
 
