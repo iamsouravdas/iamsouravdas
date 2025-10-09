@@ -1,8 +1,5 @@
 # 👋 Hey, I'm Sourav Das
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00fffa&center=true&vCenter=true&width=600&lines=Software+Developer+|+React.js+%26+Node.js+Enthusiast+|+Full-Stack+Innovator" alt="Typing SVG"/>
-</p>
 
 💡 I build **scalable, high-performance web applications** with a focus on **React.js, Node.js, TypeScript, GraphQL, Docker & PostgreSQL**.
 
