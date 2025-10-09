@@ -24,7 +24,7 @@
 
 ## 💼 Work Experience
 
-**Sr. Software Developer – ESSPL** | April 2022 – Present  
+**Software Developer – ESSPL** | April 2022 – Present  
 - Designed a **Warehouse Management System** (React.js, Material-UI, Zustand), cutting manual processing by 40%.  
 - Built **REST APIs** with Dapper ORM & TypeORM, improving data retrieval by 45%.  
 - Implemented **real-time synchronization** across frontend and backend, reducing discrepancies by 30%.  
